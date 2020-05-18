@@ -15,19 +15,19 @@ This course is tailor made for an individual who wishes to transition quickly fr
     * Reverse Image Search app
 
 ## Course Content
-* Numpy and Image Basics
+* **Numpy and Image Basics**
     * NumPy Arrays
     * Image and NumPy
     * NumPu and Image Assessment
 
-* Image Basics with OpenCV
+* **Image Basics with OpenCV**
     * Opening Image Files in a NoteBook
     * Opening Image Files OpenCV
     * Drawing On Images
     * Direct Drawing with Mouse
     * Image Basics Assessment
 
-* Image Processing
+* **Image Processing**
     * Color Mappings
     * Blending and Pasting Images
     * Image Thresholding
@@ -37,13 +37,13 @@ This course is tailor made for an individual who wishes to transition quickly fr
     * Histograms
     * Image Processing Assessment
 
-* Video Basics
+* **Video Basics**
     * Connecting to Camera
     * Using Video Files
     * Drawing on Live Camera
     * Video Basics Assessment
 
-* Object Detection
+* **Object Detection**
     * Template Matching
     * Corner Detection
     * Edge Detection
@@ -54,4 +54,18 @@ This course is tailor made for an individual who wishes to transition quickly fr
     * Custom Seeds with WaterShed Algo
     * Face Detection
     * Detection Assessment
-    
+
+* **Object Tracking**
+    * Optical Flow
+    * MeanShift Tracking
+    * CamShift Tracking
+    * Tracking APIs
+    * Meanshift
+
+* Deep Learning Computer Vision
+    * Keras Basics
+    * Keras CNN MNIST
+    * Keras CNN CIFAR-10
+    * Deep Learning Custom Images
+    * DL-CV_Assessment
+

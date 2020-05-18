@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+myfirstmodel.h5
+cat_dog.h5
+cat_dog_100epochs.h5
+cifar_10epochs.h5
+larger_CIFAR10_model.h5
