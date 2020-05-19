@@ -62,10 +62,18 @@ This course is tailor made for an individual who wishes to transition quickly fr
     * Tracking APIs
     * Meanshift
 
-* Deep Learning Computer Vision
+* **Deep Learning Computer Vision**
     * Keras Basics
     * Keras CNN MNIST
     * Keras CNN CIFAR-10
     * Deep Learning Custom Images
     * DL-CV_Assessment
+
+* **YOLO Algorithm**
+    * YOLO Object Detection
+    * Darknet53
+    * Yolo Model
+
+* **Capstone Project**
+    * Finger Counter Application
 
