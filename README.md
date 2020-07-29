@@ -94,3 +94,6 @@ This course is tailor made for an individual who wishes to transition quickly fr
 * Use Python and Deep Learning to build image classifiers
 * Work with Tensorflow, Keras, and Python to train on your own custom images.
 
+## Author
+
+[Ashlesh Khajbage](https://github.com/Ashleshk)
