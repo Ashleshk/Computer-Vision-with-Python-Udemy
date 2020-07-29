@@ -109,3 +109,6 @@ This course is tailor made for an individual who wishes to transition quickly fr
 1. **Course Reference Thumbnail**
 
 ![Course Description](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/Description.PNG)
+
+ > [Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
+ 
