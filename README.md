@@ -97,3 +97,8 @@ This course is tailor made for an individual who wishes to transition quickly fr
 ## Author
 
 [Ashlesh Khajbage](https://github.com/Ashleshk)
+
+## Instructor
+
+![Jose](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/jose.jpg)
+
