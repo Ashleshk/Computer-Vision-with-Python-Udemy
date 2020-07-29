@@ -1,6 +1,7 @@
 # Computer-Vision-with-Python-Udemy
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
  ## Description
   * **Introduction course to Computer Vision with Python**
   * **Make Computer Vision Apps?**
@@ -77,4 +78,19 @@ This course is tailor made for an individual who wishes to transition quickly fr
 
 * **Capstone Project**
     * Finger Counter Application
+
+## What I learnt
+* Understand basics of NumPy
+* Manipulate and open Images with NumPy
+* Use OpenCV to work with image files
+* Use Python and OpenCV to draw shapes on images and videos
+* Perform image manipulation with OpenCV, including smoothing, blurring, thresholding, and morphological operations.
+* Create Color Histograms with OpenCV
+* Open and Stream video with Python and OpenCV
+* Detect Objects, including corner, edge, and grid detection techniques with OpenCV and Python
+* Create Face Detection Software
+* Segment Images with the Watershed Algorithm
+* Track Objects in Video
+* Use Python and Deep Learning to build image classifiers
+* Work with Tensorflow, Keras, and Python to train on your own custom images.
 
