@@ -102,3 +102,5 @@ This course is tailor made for an individual who wishes to transition quickly fr
 
 ![Jose](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/jose.jpg)
 
+**Jose Portilla**
+> Head of Data Science, Pierian Data Inc.
