@@ -112,4 +112,7 @@ This course is tailor made for an individual who wishes to transition quickly fr
 
  > [Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
 
+2. **Certificate**
+
+![Certificate]()
  
