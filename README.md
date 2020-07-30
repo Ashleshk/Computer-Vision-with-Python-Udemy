@@ -114,5 +114,5 @@ This course is tailor made for an individual who wishes to transition quickly fr
 
 2. **Certificate**
 
-![Certificate]()
+![Certificate](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/Certiifcate.PNG)
  
