@@ -119,3 +119,6 @@ This course is tailor made for an individual who wishes to transition quickly fr
  3. **I am Extremely ThankFull For**
 
  ![Udemy](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/Udemy.PNG)
+
+ 5. **Similar Courses**
+ > 1. Power BI A-Z_Hands-On Power BI Training For Data Science ->
