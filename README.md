@@ -123,4 +123,4 @@ This course is tailor made for an individual who wishes to transition quickly fr
  5. **Similar Courses**
  > 1. Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link](https://www.udemy.com/share/101WGaBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy)
  > 2. TensorFlow 2.0 Complete Reference Course -> [Course Link](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/) -  - [Github Link](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course)
- > 3. Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science -> [Course Link](https://www.udemy.com/course/machinelearning/)
+ > 3. Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science -> [Course Link](https://www.udemy.com/course/machinelearning/) - [Github Link](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science)
